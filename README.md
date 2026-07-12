@@ -82,21 +82,35 @@ Interactive dashboard navigation · Dynamic date filtering · KPI cards · Pie /
 
 📁 Repository Structure
 Ola-Booking-Analysis/
+
 │
 ├── README.md
+
 ├── LICENSE
+
 ├── Dashboard/
+
 │   └── Ola Booking.pbix          # Power BI report file
+
 ├── Dataset/
+
 │   └── Ola_Booking_Data.xlsx     # Source dataset
+
 ├── Images/
+
 │   ├── overall.png
+
 │   ├── vehicle.png
+
 │   ├── revenue.png
+
 │   ├── cancellation.png
+
 │   └── ratings.png
+
 └── docs/
     └── dashboard_overview.pdf     # All 5 pages exported to PDF
+    
 📌 Business Questions Answered
 How many bookings were made during the selected period, and what is their total value?
 What is the overall booking success rate?
